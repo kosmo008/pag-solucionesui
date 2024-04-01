@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components{
+    .wrapper{
+        @apply w-[100%] mx-auto overflow-hidden p-16
+    }
+
+    .button{
+        @apply bg-gradient-to-b from-[#1E76BC]/70 to-[#44AD4D]/70 text-gray-100 block w-max py-4 px-12 rounded-full
+    }
+    .footer-area{
+        grid-template-columns: 
+        "area1"
+        "area2"
+        "area3"
+        "area4"
+        ;
+    }
+}
