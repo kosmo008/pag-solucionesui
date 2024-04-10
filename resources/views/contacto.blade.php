@@ -38,18 +38,18 @@
 
 
         <article class="rounded-b-2xl p-10 grid content-center md:max-w-1/3 md:p-1">
-            <img src="img/correo-electronico.png" alt="" class="w-[15%] mx-auto mb-4 md:w-[20%]">
-            <p class="text-2xl font-bold md:text-sm xl:text-base">Cuéntanos como te ayudamos!</p>
-            <p class=" text-xl md:text-xs xl:text-base">hola@impulsoui.com.mx</p>
+            <img src="img/correo-electronico.png" alt="" class="w-[15%] mx-auto mb-4 md:w-[20%] lg:w-[25%] xl:w-[30%]">
+            <p class="text-2xl font-bold md:text-base lg:text-xl xl:text-3xl">Quejas y Apelaciones</p>
+            <p class=" text-xl md:text-sm lg:text-base xl:text-xl ">atencionaclientes@impulsoui.com.mx</p>
         </article>
         <article class="rounded-b-2xl p-10 grid content-center md:max-w-1/3">
             <img src="img/llamada-telefonica.png" alt=""
-                class="  w-[15%] mx-auto mb-4 md:w-[30%] lg:w-[20%] xl:w-[20%]">
-            <p class="text-xl font-bold md:text-xs xl:text-base">Tel. 55-55-77-88-99 || 55-55-77-88-99 </p>
+                class="  w-[15%] mx-auto mb-4 md:w-[30%] lg:w-[28%] xl:w-[30%]">
+            <p class="text-xl font-bold md:text-sm lg:text-xl xl:text-3xl">Tel. 55-55-55-55-55 || 55-55-55-55-55 </p>
         </article>
         <article class="rounded-b-2xl p-10 grid content-center md:max-w-1/3">
-            <img src="img/alfiler.png" alt="" class=" w-[15%] mx-auto mb-4 md:w-[20%] xl:w-[15%]">
-            <p class="text-xl font-bold md:text-xs xl:text-base">Boulevard Tultitlan Poniente 16 esquina con Justo
+            <img src="img/alfiler.png" alt="" class=" w-[15%] mx-auto mb-4 md:w-[20%] lg:w-[22%] xl:w-[15%]">
+            <p class="text-xl font-bold md:text-base lg:text-base xl:text-2xl">Boulevard Tultitlan Poniente 16 esquina con Justo
                 Corro, Col. Barrio los Reyes, 54900 Tultitlán de Mariano Escobedo, Méx.</p>
         </article>
 
