@@ -16,13 +16,13 @@
         md:w-max md:bg-transparent md:p-0 md:grid-flow-col md:static">
             <li>
                 <a href="{{ route('home') }} "
-                    class="inline-flex text-2xl hover:text-[#1E76BC] hover:border-gray-950 hover:-translate-y-1 hover:underline duration-150 translate-all">
+                    class="inline-flex text-xl hover:text-[#1E76BC] hover:border-gray-950 hover:-translate-y-1 hover:underline duration-150 translate-all">
                     {{ __('Home') }}
                 </a>
             </li>
             <li>
                 <a href="{{ route('contacto.show') }} "
-                    class="inline-flex text-2xl hover:text-[#1E76BC] hover:border-gray-950 hover:-translate-y-1 hover:underline duration-150 translate-all">
+                    class="inline-flex text-xl hover:text-[#1E76BC] hover:border-gray-950 hover:-translate-y-1 hover:underline duration-150 translate-all">
                     {{ __('Contact') }}
                 </a>
             </li>

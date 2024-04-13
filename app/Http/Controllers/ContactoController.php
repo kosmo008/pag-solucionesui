@@ -23,7 +23,7 @@ class ContactoController extends Controller
             'mensaje' => ['required','min:30']
         ]);
         
-        Mail::to('hola@impulsoui.com.mx')->send(new MessageReceived($msj));
+        Mail::to('atencionaclientes@impulsoui.com.mx')->send(new MessageReceived($msj));
 
         
 

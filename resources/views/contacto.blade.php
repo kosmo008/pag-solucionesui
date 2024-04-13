@@ -33,24 +33,25 @@
 
 
 
-    <section class=" w-[90%] mx-auto text-[#1E76BC] text-center p-5 mb-10 
+    <section class=" w-[95%] mx-auto text-[#1E76BC] text-center p-5 mb-10 
     md:flex md:rounded-xl md:w-[95%] ">      
 
 
-        <article class="rounded-b-2xl p-10 grid content-center md:max-w-1/3 md:p-1">
-            <img src="img/correo-electronico.png" alt="" class="w-[15%] mx-auto mb-4 md:w-[20%] lg:w-[25%] xl:w-[30%]">
-            <p class="text-2xl font-bold md:text-base lg:text-xl xl:text-3xl">Quejas y Apelaciones</p>
-            <p class=" text-xl md:text-sm lg:text-base xl:text-xl ">atencionaclientes@impulsoui.com.mx</p>
+        <article class="w-[98%] rounded-b-2xl p-10 grid content-center md:max-w-1/3 md:p-1">
+            <img src="img/correo-electronico.png" alt="" class="w-[15%] mx-auto mb-4 md:w-[20%] lg:w-[25%] xl:w-[18%]">
+            <p class="text-2xl font-bold md:text-base lg:text-xl xl:text-2xl">Quejas y Apelaciones</p>
+            <p class=" text-xl md:text-sm lg:text-base xl:text-lg ">atencionaclientes@impulsoui.com.mx</p>
         </article>
-        <article class="rounded-b-2xl p-10 grid content-center md:max-w-1/3">
+        <article class="w-[98%] rounded-b-2xl p-10 grid content-center md:max-w-1/3">
             <img src="img/llamada-telefonica.png" alt=""
-                class="  w-[15%] mx-auto mb-4 md:w-[30%] lg:w-[28%] xl:w-[30%]">
-            <p class="text-xl font-bold md:text-sm lg:text-xl xl:text-3xl">Tel. 55-55-55-55-55 || 55-55-55-55-55 </p>
+                class="  w-[15%] mx-auto mb-4 md:w-[30%] lg:w-[28%] xl:w-[18%]">
+            <p class="text-xl font-bold md:text-base lg:text-xl xl:text-2xl">Tel. 55-55-55-55-55 || 55-55-55-55-55 </p>
         </article>
-        <article class="rounded-b-2xl p-10 grid content-center md:max-w-1/3">
-            <img src="img/alfiler.png" alt="" class=" w-[15%] mx-auto mb-4 md:w-[20%] lg:w-[22%] xl:w-[15%]">
-            <p class="text-xl font-bold md:text-base lg:text-base xl:text-2xl">Boulevard Tultitlan Poniente 16 esquina con Justo
-                Corro, Col. Barrio los Reyes, 54900 Tultitlán de Mariano Escobedo, Méx.</p>
+        <article class="w-[98%] rounded-b-2xl p-10 grid content-center md:max-w-1/3">
+            <img src="img/alfiler.png" alt="" class=" w-[15%] mx-auto mb-4 md:w-[30%] lg:w-[22%] xl:w-[20%]">
+            <p class="text-xl font-bold md:text-xs  lg:text-base xl:text-xl">Boulevard Tultitlan Poniente 16 esquina con Justo,
+            </p> 
+            <p class="text-xl font-bold md:text-xs lg:text-base xl:text-xl">Col. Barrio los Reyes, 54900 Tultitlán de Mariano Escobedo, Méx.</p>
         </article>
 
     </section>

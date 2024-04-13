@@ -1,4 +1,4 @@
-<div class="w-[100%] mx-auto text-center  justify-items-center footer-area mb-5 ">
+<div class="w-[100%] h-[80%] mx-auto text-center  justify-items-center footer-area  ">
     <section class=" text-white 
               md:hidden">
 
@@ -10,7 +10,7 @@
             <p class="m-2 italic  text-sm md:text-xs ">"Tu seguridad, nuestra prioridad: verificación confiable para
                 productos confiables."</p>
                 <p> 
-                    <a href="{{ asset('pdf/POLÍTICA-DE-PRIVACIDAD.pdf') }}" download class="font-semibold text-base underline text-gray-200   hover:hover:underline-offset-4"> Politicas de Privacidad </a>
+                    <a href="{{ asset('pdf/POLITICAS.pdf') }}" download class="font-semibold text-base underline text-gray-200   hover:hover:underline-offset-4"> Politicas de Privacidad </a>
                 </p>
         </div>
 
@@ -18,7 +18,7 @@
 
 
 
-    <section class=" mx-auto text-[#fff] text-center p-1 mb-10
+    <section class="h-[80%] m-10 mx-auto text-[#fff] text-center p-1 mb-10
     md:rounded-xl md:w-[100%] hidden md:block md:grid md:grid-cols-2 md:gap-2 md:justify-items-stretch ">
 
 
@@ -32,7 +32,7 @@
             <p class="italic text-base">"Tu seguridad, nuestra prioridad: verificación confiable para productos
                 confiables."</p>
                 <p> 
-                    <a href="{{ asset('pdf/POLÍTICA-DE-PRIVACIDAD.pdf') }}" download class="font-semibold text-base underline text-gray-200  hover:hover:underline-offset-4"> Politicas de Privacidad </a>
+                    <a href="{{ asset('pdf/POLITICAS.pdf') }}" download class="font-semibold text-base underline text-gray-200  hover:hover:underline-offset-4"> Politicas de Privacidad </a>
                 </p>
         </div>
 
@@ -42,9 +42,9 @@
     
 
 
-    <section class="grid grid-cols-2 gap-2  mt-5 text-[#1E76BC] m-2">
+    <section class="h-[20%] bg-stone-900  grid grid-cols-2 gap-2   text-[#1E76BC] p-5">
        <p class="grid rounded-lg justify-items-start text-sm">
-        © 2024  Unidad de Inspeccion IMPULSO|| Todos los derechos reservados
+        © 2024  Unidad de Inspeccion IMPULSO || Todos los derechos reservados
     </p>
     <p class="grid rounded-lg justify-items-end text-sm underline-offset-0">
         Desarrollado por :Daniel Cibrian

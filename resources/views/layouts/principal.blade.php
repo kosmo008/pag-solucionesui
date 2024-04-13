@@ -42,7 +42,7 @@
             @yield('content')
 
         </main>
-        <footer class="bg-stone-800 py-10">
+        <footer class="bg-stone-800 p-1">
             @include('layouts.footer')
         </footer>
     </div>
