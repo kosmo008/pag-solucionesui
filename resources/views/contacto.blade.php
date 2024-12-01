@@ -45,7 +45,7 @@
         <article class="w-[98%] rounded-b-2xl p-10 grid content-center md:max-w-1/3">
             <img src="img/llamada-telefonica.png" alt=""
                 class="  w-[15%] mx-auto mb-4 md:w-[30%] lg:w-[28%] xl:w-[18%]">
-            <p class="text-xl font-bold md:text-base lg:text-xl xl:text-2xl">Tel. 55-55-55-55-55 || 55-55-55-55-55 </p>
+            <p class="text-xl font-bold md:text-base lg:text-xl xl:text-2xl">Tel. 55-65-84-3-67 || 55-65-84-30-68 </p>
         </article>
         <article class="w-[98%] rounded-b-2xl p-10 grid content-center md:max-w-1/3">
             <img src="img/alfiler.png" alt="" class=" w-[15%] mx-auto mb-4 md:w-[30%] lg:w-[22%] xl:w-[20%]">
