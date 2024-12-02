@@ -37,7 +37,7 @@
     md:flex md:rounded-xl md:w-[95%] ">      
 
 
-        <article class="w-[98%] rounded-b-2xl p-10 grid content-center md:max-w-1/3 md:p-1">
+        <article class="w-[98%] rounded-b-2xl p-10 grid content-center md:max-w-1/3 ">
             <img src="img/correo-electronico.png" alt="" class="w-[15%] mx-auto mb-4 md:w-[20%] lg:w-[25%] xl:w-[18%]">
             <p class="text-2xl font-bold md:text-base lg:text-xl xl:text-2xl">Quejas y Apelaciones</p>
             <p class=" text-xl md:text-sm lg:text-base xl:text-lg ">atencionaclientes@impulsoui.com.mx</p>

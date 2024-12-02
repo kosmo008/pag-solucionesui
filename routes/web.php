@@ -4,6 +4,7 @@ use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\ContactoController;
+use App\Http\Controllers\NuestroAlcanceController;
 
 /*
 |--------------------------------------------------------------------------
@@ -21,6 +22,9 @@ Route::get('/',HomeController::class)->name('home');
 Route::get('/contacto', [ContactoController::class,'show'])->name('contacto.show');
 
 Route::post('/contacto', [ContactoController::class,'store'])->name('contacto.store');
+
+Route::get('/nuestroalcance', [NuestroAlcanceController::class,'show'])->name('nuestroalcance.show');
+
 
 /*
 Route::get('/dashboard', function () {
